@@ -9,8 +9,8 @@ Description: Performs two-sample comparisons using the window mean survival time
 License: `use_mit_license()`, `use_gpl3_license()` or friends to
     pick a license
 Imports: 
-  survival, 
-  hesim
+    survival, 
+    hesim
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
